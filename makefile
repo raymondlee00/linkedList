@@ -8,9 +8,9 @@ functions.o: functions.c headers.h
 	gcc -c functions.c
 
 run: 
-	./text_list.exe
+	./test_list.exe
 
 clean:
 	rm *.o
-	rm text_list
+	rm test_list
 	rm *~
