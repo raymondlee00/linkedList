@@ -12,5 +12,5 @@ run:
 
 clean:
 	rm *.o
-	rm test_list
+	rm text_list
 	rm *~
